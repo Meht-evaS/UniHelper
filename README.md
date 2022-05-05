@@ -1,5 +1,5 @@
 # UniHelper
-Telegram bot per la ricerca ricerca delle lezioni, esami e lauree dell'università degli studi di Perugia.
+Telegram bot per la ricerca delle lezioni, esami e lauree dell'università degli studi di Perugia.
 
 Requirements:
 - `pip3 install PyTelegramBotAPI`
